@@ -1,0 +1,179 @@
+﻿/*Estilos generales*/
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Estilos sidebar*/
+
+.sidebar{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 48px 0 0;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+@media (max-width: 767.98px){
+    .sidebar{
+        top: 5rem;
+    }
+}
+
+.sidebar-sticky{
+    position: relative;
+    top: 0;
+    height: calc(100vh - 48px);
+    padding-top: .5rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.sidebar .nav-link{
+    font-weight: 500;
+    color: #333;
+    text-align: center;
+}
+.sidebar .nav-link .feather{
+    margin-right: 4px;
+    color: #727272;
+}
+.sidebar .nav-link.active{
+    color: #007BFF;
+}
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather{
+    color: inherit;
+}
+.sidebar-heading{
+    font-size: .75rem;
+    text-transform: uppercase;
+}
+
+/*Navbar*/
+
+.navbar-brand{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    border-left: 1px solid rgba(255, 255, 255, .1);
+    font-size: 1rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .25);
+    box-shadow: inset -1px rgba(0, 0, 0, .25);
+}
+.navbar .navbar-toggler{
+    top: .25rem;
+    right: 1rem;
+}
+.navbar .form-control{
+    padding: .75rem 1rem;
+    border-width: 0;
+    border-radius: 0;
+}
+.form-control-dark{
+    color: #FFF;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .1);
+}
+.form-control-dark:focus{
+    border-color: transparent;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+}
+
+/*Contenido principal*/
+
+main #imagen {
+    background-image: url('Don perro.png');
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: rgba(255, 255, 255, .1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #17202A;
+}
+main #imagen h1{
+    margin: 100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+/*Formulario*/
+/*main .container .row .col {
+    border: 1px solid #BFC9CA;
+    margin: 1px;
+    padding: 5px;
+}*/
+main .container .row .col-text{
+    text-align: right;
+    font-size: 25px;
+}
+main .container .row .v-center{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+/*Botones primera línea*/
+main .container .row .v-center .btnF{
+    background-color: #5C0DA1;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+main .container .row .v-center .btnP{
+    background-color: #EDAB42;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+}
+main .container .row .v-center .btnN{
+    background-color: #EDAB42;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+}
+main .container .row .v-center .btnL{
+    background-color: #5C0DA1;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+/*Botones segunda linea*/
+main .container .row .v-center .btnNw{
+    background-color: #15A148;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+main .container .row .v-center .btnI{
+    background-color: #406FF0;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+main .container .row .v-center .btnU{
+    background-color: #7B3AF0;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+main .container .row .v-center .btnD{
+    background-color: #F04742;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+main .container .row .v-center .btnC{
+    background-color: #F04742;
+    font-weight: bolder;
+    border: 2px solid #515A5A;
+    color: white;
+}
+/*Validador*/
+main .container .row .col .valid{
+    font-size: 25px;
+    font-weight: bolder;
+}
