@@ -61,3 +61,48 @@ C:\Users\pc\Desktop\Ejemplo\Lavadero de perros\obj\Debug\Lavadero de perros.vbpr
 C:\Users\pc\Desktop\Ejemplo\Lavadero de perros\obj\Debug\Lavadero de perros.dll
 C:\Users\pc\Desktop\Ejemplo\Lavadero de perros\obj\Debug\Lavadero de perros.xml
 C:\Users\pc\Desktop\Ejemplo\Lavadero de perros\obj\Debug\Lavadero de perros.pdb
+C:\Proyectos\LavaderoDePerrosAsp\bin\Lavadero de perros.dll.config
+C:\Proyectos\LavaderoDePerrosAsp\bin\Lavadero de perros.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\Lavadero de perros.pdb
+C:\Proyectos\LavaderoDePerrosAsp\bin\Lavadero de perros.xml
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\csc.exe
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\csc.exe.config
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\csc.rsp
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\csi.exe
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\csi.exe.config
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\csi.rsp
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Buffers.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Memory.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Numerics.Vectors.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\vbc.exe
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\vbc.exe.config
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\vbc.rsp
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\LavaderoDePerrosAsp\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\LavaderoDePerrosAsp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\LavaderoDePerrosAsp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.vbproj.AssemblyReference.cache
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero_de_perros.Resources.resources
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.vbproj.GenerateResource.cache
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.vbproj.CoreCompileInputs.cache
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.vbproj.CopyComplete
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.dll
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.xml
+C:\Proyectos\LavaderoDePerrosAsp\obj\Debug\Lavadero de perros.pdb
